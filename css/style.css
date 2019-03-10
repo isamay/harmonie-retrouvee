@@ -1150,6 +1150,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_top_contact_area {
 	float: left;
 	margin-top:0.88em;
+    margin-right: 2.33em;
 }
 .top_panel_top_contact_area .icon {
 	font-size: 1.2em;
@@ -1157,9 +1158,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_top_contact_area .icon + span {
 	margin-left: 0.66em;
 }
-.top_panel_top_contact_area.contact_email + .contact_phone {
-	margin-left: 3.33em;
-}
+
 .top_panel_top_open_hours {
 	float:left;
 	margin-top:1em;
@@ -3113,7 +3112,7 @@ blockquote > p > a:hover:after {
 
 /* Masonry and Portfolio */
 .post_item_classic .post_content {
-	padding: 0 2.666em;
+	padding: 0 1.666em;
 	text-align: center;
 }
 
