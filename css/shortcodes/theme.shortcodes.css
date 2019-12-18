@@ -2820,7 +2820,7 @@ ul.sc_list_style_iconed {
 .sc_price_block .sc_price_block_money .sc_price_money {
 }
 .sc_price_block .sc_price_block_description {
-	text-align:center;
+/*    text-align:center;*/
 	font-size: 0.8571em;
 	line-height: 1.5em;
 	padding:0 2em 2em;
